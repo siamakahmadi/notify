@@ -1,10 +1,10 @@
 {
-  "name": "@YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME",
+  "name": "Notify",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/YOUR_REPOSITORY_NAME"
+    "registry": "https://npm.pkg.github.com/siamakahmadi"
   },
-  "version": "0.1.0",
-  "description": "A simple template for a custom React component library",
+  "version": "0.0.1",
+  "description": "Simple Alert Components For React",
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
