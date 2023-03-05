@@ -1,5 +1,5 @@
 {
-  "name": "notify_react_components",
+  "name": "notify",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/siamakahmadi"
   },
